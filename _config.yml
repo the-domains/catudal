@@ -1,0 +1,14 @@
+layout_spectrum: 0.5663083
+typography_spectrum: 0.2670251
+color:
+  saturation: 0.7455197
+  lightness: 0.07511508
+  brandStrength: 0.8834931
+  brandColors:
+    - '#5E86AA'
+    - '#DFBD5A'
+    - '#446085'
+    - '#282213'
+    - '#9A8977'
+  rhythmicContrast: 0.9957872
+name: Catudal
